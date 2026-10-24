@@ -4,7 +4,7 @@
 This folder contains the dataset used for the Retail Sales Analysis Dashboard project developed using Microsoft Excel.
 
 ## Dataset Details
-- **File:** `retail_sales_dataset.csv`
+- **File:** `Sales_Dataset.xlsx - Sales_2022_2024.csv`
 - **Format:** CSV
 - **Records:** Approximately 190,757 data rows
 - **Fields:** 19 columns
